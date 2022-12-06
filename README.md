@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi <img src = "https://giphy.com/embed/3ohhwMDyS6rv3sB8yI" width="50px" height="50px"> I'm Ruhul Amin
+## Hi <img src = "https://media0.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif?cid=ecf05e47h2x367zoxm9df26ogv4qew6nngtfp36mhmf2jcsh&rid=giphy.gif&ct=s" width="50px" height="50px"> I'm Ruhul Amin
 
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 </div>
