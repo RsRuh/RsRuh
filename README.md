@@ -70,7 +70,7 @@
 ## Streak Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RsRuh&" alt="RsRuh"/></p>
 
-## GitHub Trophies <img src = "https://media0.giphy.com/media/3Ns7vXMfODmS45kg2s/giphy_s.gif?cid=ecf05e47p9z9mrqrhtkx31uejuuz42tddc72tu5mnz2i27mm&rid=giphy_s.gif&ct=s" width="40px" height="40px">
+## GitHub Trophies <img src = "https://media0.giphy.com/media/3Ns7vXMfODmS45kg2s/giphy.gif?cid=790b76118061cca8cc2ba10b881f464feee6d4961b5f49eb&rid=giphy.gif&ct=s" width="40px" height="40px">
 [![trophy](https://github-profile-trophy.vercel.app/?username=RsRuh)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## GitHub Metrics
