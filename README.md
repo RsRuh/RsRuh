@@ -63,7 +63,7 @@
 
 ## GitHub Stats
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azmarifcode&show_icons=true&locale=en" alt="azmarifcode" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RsRuh&show_icons=true&locale=en" alt="RsRuh" /></p>
 
 ## Streak Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RsRuh&" alt="RsRuh"/></p>
