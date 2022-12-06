@@ -2,7 +2,7 @@
 
 ## Hi <img src = "https://media0.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif?cid=ecf05e47h2x367zoxm9df26ogv4qew6nngtfp36mhmf2jcsh&rid=giphy.gif&ct=s" width="50px" height="50px"> I'm Ruhul Amin
 
-<h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
+<h2> About Me  <img src = "https://media1.giphy.com/media/jz5cTkM8m9oeXZaL4k/giphy_s.gif?cid=ecf05e47bjcmu98l0fifkv3dfahcvzqbqq0mfhc8i3g1nbn0&rid=giphy_s.gif&ct=s" width="40px" height="40px"></h2>
 </div>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
