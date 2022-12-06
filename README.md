@@ -76,10 +76,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=RsRuh)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## GitHub Metrics
-![GitHub metrics](https://metrics.lecoq.io/RsRuh)
-
-## GitHub Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RsRuh) 
-
-![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
-</div>
+![GitHub metrics](https://metrics.lecoq.io/RsRuh
