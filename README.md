@@ -63,11 +63,11 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RsRuh)](https://github.com/anuraghazra/github-readme-stats)
 
-## GitHub Stats 
+## GitHub Stats <img src = "https://media2.giphy.com/media/qyD17WqUFTVQaqdPM2/200w.webp?cid=ecf05e47ftwa8uf9nld73k9kxkupnui5jcmo7ykvqu9l5c7r&rid=200w.webp&ct=s" width="40px" height="40px">
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RsRuh&show_icons=true&locale=en" alt="RsRuh" /></p>
 
-## Streak Stats
+## Streak Stats <img src = "https://media4.giphy.com/media/AynUwd5uKhIevEWx54/200w.webp?cid=ecf05e47ftwa8uf9nld73k9kxkupnui5jcmo7ykvqu9l5c7r&rid=200w.webp&ct=s" width="40px" height="40px">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RsRuh&" alt="RsRuh"/></p>
 
 ## GitHub Trophies <img src = "https://media0.giphy.com/media/3Ns7vXMfODmS45kg2s/giphy.gif?cid=790b76118061cca8cc2ba10b881f464feee6d4961b5f49eb&rid=giphy.gif&ct=s" width="40px" height="40px">
