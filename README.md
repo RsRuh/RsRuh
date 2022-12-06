@@ -25,7 +25,7 @@
 </br>
 
 <div align="center">
-<h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
+<h2>Connect With Me <img src = "https://media0.giphy.com/media/u3MSOBXyPZhIBBK7ek/giphy.gif?cid=790b76118720de425cc9cb898f12c65959911dafac180470&rid=giphy.gif&ct=s" width="40px" height="40px"></h2>  
 </div>
 </hr>
 <div align="center">
