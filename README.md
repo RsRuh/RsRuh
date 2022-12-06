@@ -63,7 +63,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RsRuh)](https://github.com/anuraghazra/github-readme-stats)
 
-## GitHub Stats <img src = "https://media3.giphy.com/media/C4b6GwFKbYxK8/giphy.gif?cid=ecf05e472xs6mldedyktczsyuma09jcxsq6u5hh8wix84anw&rid=giphy.gif&ct=s" width="40px" height="40px">
+## GitHub Stats 
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RsRuh&show_icons=true&locale=en" alt="RsRuh" /></p>
 
