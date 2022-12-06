@@ -4,7 +4,7 @@
 
 <h2> About Me  <img src = "https://media1.giphy.com/media/jz5cTkM8m9oeXZaL4k/giphy.gif?cid=ecf05e47bjcmu98l0fifkv3dfahcvzqbqq0mfhc8i3g1nbn0&rid=giphy.gif&ct=s" width="40px" height="40px"></h2>
 </div>
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 ⚡ I'm Web Developer
 </br>
