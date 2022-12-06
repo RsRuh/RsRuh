@@ -76,4 +76,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=RsRuh)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## GitHub Metrics
-![GitHub metrics](https://metrics.lecoq.io/RsRuh
+![GitHub metrics](https://metrics.lecoq.io/RsRuh)
