@@ -4,7 +4,7 @@
 
 <h2> About Me  <img src = "https://media1.giphy.com/media/jz5cTkM8m9oeXZaL4k/giphy.gif?cid=ecf05e47bjcmu98l0fifkv3dfahcvzqbqq0mfhc8i3g1nbn0&rid=giphy.gif&ct=s" width="40px" height="40px"></h2>
 </div>
-<img width="40%" align="right" alt="Github" src="https://camo.githubusercontent.com/9ad7e27543e75bdbc5e23b3c2899967eee14a495c89ce8879b34d81fa5aaa464/68747470733a2f2f692e6962622e636f2f6b477139474a512f363837343734373037333361326632663633363436653265363437323639363236323632366336353265363336663664326637353733363537323733326633323331333333313339333933333266373336333732363536353665373336383666373437332e676966" />
+<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 ⚡ I'm Web Developer
 </br>
