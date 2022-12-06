@@ -41,7 +41,7 @@
   
 <div align="center">
   
-<h2>Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
+<h2>Languages and Tools <img src = "https://media0.giphy.com/media/YIoRLftPZQCFSQXIzp/giphy.gif?cid=ecf05e475g6nugq5vvm8f4vmgk8dj2h8l6guotm3r7jh69xs&rid=giphy.gif&ct=s" width="40px" height="40px"></h2>
 </div>
 </hr>
 
